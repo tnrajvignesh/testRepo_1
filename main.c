@@ -1,2 +1,8 @@
 #include "Energy.h"
-printf("All Success");
+void main()
+{
+  while(1)
+  {
+    printf("Success Always");
+  }
+}
